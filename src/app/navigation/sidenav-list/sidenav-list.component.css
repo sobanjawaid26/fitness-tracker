@@ -1,0 +1,16 @@
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover,
+a:active {
+    color: lightgray;
+}
+
+
+
+.mat-icon-face {
+    text-align: center;
+    /*padding-top: 4px;*/
+}
